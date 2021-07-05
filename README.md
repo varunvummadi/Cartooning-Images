@@ -39,9 +39,8 @@ $cartoonize.py
 
 * [python](https://www.python.org/) - The software used
 ## Author
-[![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Profile-teal.svg)](https://www.linkedin.com/in/shaashwat-agrawal-1904a117a/)
 
-* [**Shaashwat Agrawal**](https://github.com/Shaashwat05) 
+* [**varunvummadi**](https://github.com/varunvummadi) 
 
 
 ## Acknowledgments
